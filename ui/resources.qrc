@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/ui">
+        <file>assets/next-button.png</file>
+        <file>assets/play-button.png</file>
+        <file>assets/back-button.png</file>
+        <file>assets/pause-button.png</file>
+    </qresource>
+</RCC>

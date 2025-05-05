@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appmedia_player_FILE /Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/build/Qt_6_9_0_for_macOS-Debug/appmedia_player.app/Contents/MacOS/appmedia_player)
+set(__QT_DEPLOY_TARGET_appmedia_player_TYPE EXECUTABLE)

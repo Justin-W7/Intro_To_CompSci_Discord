@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/media_player/">
+    <file alias="ui/control_bar/qmldir">/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/build/Qt_6_9_0_for_macOS-Debug/media_player/ui/control_bar/qmldir</file>
+    <file alias="ui/left_screen/qmldir">/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/build/Qt_6_9_0_for_macOS-Debug/media_player/ui/left_screen/qmldir</file>
+    <file alias="ui/right_screen/qmldir">/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/build/Qt_6_9_0_for_macOS-Debug/media_player/ui/right_screen/qmldir</file>
+  </qresource>
+</RCC>
+

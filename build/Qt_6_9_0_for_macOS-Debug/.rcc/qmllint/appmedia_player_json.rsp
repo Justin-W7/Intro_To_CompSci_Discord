@@ -1,0 +1,17 @@
+--bare
+-I
+/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/build/Qt_6_9_0_for_macOS-Debug
+-I
+/Users/justin/Qt/6.9.0/macos/qml
+--resource
+/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qmake_media_player.qrc
+--resource
+/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/appmedia_player_raw_qml_0.qrc
+--resource
+/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/appmedia_player_raw_qml_0_extra_qmldirs.qrc
+/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/Main.qml
+/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/ui/control_bar/ControlBar.qml
+/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/ui/left_screen/LeftScreen.qml
+/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/ui/right_screen/RightScreen.qml
+--json
+/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/build/Qt_6_9_0_for_macOS-Debug/appmedia_player_qmllint.json
