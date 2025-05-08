@@ -1,0 +1,15 @@
+-rootPath
+/Users/justin/programming/my_projects/Intro_To_CompSci_Discord
+-cmake-output
+-output-file
+/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/build/Qt_6_9_0_for_macOS-Debug/.qt/qml_imports/appmedia_player_conf.cmake
+-importPath
+/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/build/Qt_6_9_0_for_macOS-Debug/media_player
+-importPath
+/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/build/Qt_6_9_0_for_macOS-Debug
+-importPath
+/Users/justin/Qt/6.9.0/macos/qml
+-qrcFiles
+/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qmake_media_player.qrc
+/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/appmedia_player_raw_qml_0.qrc
+/Users/justin/programming/my_projects/build_your_own_x/media_player/media_player/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/appmedia_player_raw_qml_0_extra_qmldirs.qrc

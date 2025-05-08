@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/media_player/">
+    <file alias="Main.qml">/Users/justin/programming/my_projects/Intro_To_CompSci_Discord/Main.qml</file>
+    <file alias="ui/control_bar/ControlBar.qml">/Users/justin/programming/my_projects/Intro_To_CompSci_Discord/ui/control_bar/ControlBar.qml</file>
+    <file alias="ui/left_screen/LeftScreen.qml">/Users/justin/programming/my_projects/Intro_To_CompSci_Discord/ui/left_screen/LeftScreen.qml</file>
+    <file alias="ui/right_screen/RightScreen.qml">/Users/justin/programming/my_projects/Intro_To_CompSci_Discord/ui/right_screen/RightScreen.qml</file>
+  </qresource>
+</RCC>
+

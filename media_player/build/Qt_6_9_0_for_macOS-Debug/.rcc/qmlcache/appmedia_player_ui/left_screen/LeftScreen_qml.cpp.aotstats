@@ -1,0 +1,68 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 3920,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 155,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 464,
+                        "errorMessage": "Cannot access value for name right_screen",
+                        "functionName": "right",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 209,
+                        "errorMessage": "Cannot access value for name control_bar",
+                        "functionName": "bottom",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 328,
+                        "errorMessage": "Cannot access value for name TextArea",
+                        "functionName": "wrapMode",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 285,
+                        "errorMessage": "Cannot access value for name Colors",
+                        "functionName": "color",
+                        "line": 20
+                    }
+                ],
+                "filepath": "/Users/justin/programming/my_projects/Intro_To_CompSci_Discord/ui/left_screen/LeftScreen.qml"
+            }
+        ],
+        "moduleId": "media_player(appmedia_player)"
+    }
+]
