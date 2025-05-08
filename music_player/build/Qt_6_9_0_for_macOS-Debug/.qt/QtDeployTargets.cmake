@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_music_player_FILE /Users/justin/programming/my_projects/build_your_own_x/music_player/build/Qt_6_9_0_for_macOS-Debug/music_player.app/Contents/MacOS/music_player)
-set(__QT_DEPLOY_TARGET_music_player_TYPE EXECUTABLE)

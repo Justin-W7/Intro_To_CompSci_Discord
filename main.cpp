@@ -1,5 +1,7 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
+#include <QAbstractItemModel>
+#include <QFileSystemModel>
 
 
 int main(int argc, char *argv[])

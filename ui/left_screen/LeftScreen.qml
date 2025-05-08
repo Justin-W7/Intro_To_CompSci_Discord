@@ -1,49 +1,24 @@
 import QtQuick
 import QtQuick.Controls
-import Qt.labs.folderlistmodel
+import QtQuick.Layouts
+
 
 Rectangle {
     id: left_screen
     color: "#f2f2f7"
-    anchors {
-        top: parent.top
-        left: parent.left
-        right: right_screen.left
-        bottom: control_bar.top
-    }
-
-    // Sets the folder to be used in the ScrollView
-    FolderListModel {
-        id: system_file_view
-        folder: "file:///Users/justin/Music/1_Music Library/Nils Frahm/Spaces"
-        nameFilters: ["*.mp3", "*.wav"]
-        showDirs: false
-    }
-
-    ScrollView {
+    anchors.top: parent.top
+    anchors.left: parent.left
+    anchors.right: right_screen.left
+    anchors.bottom: control_bar.top
+    StackLayout {
         anchors.fill: parent
 
-        ListView {
-            id: file_list_view
-            model: system_file_view
-            interactive: true
-            clip: true
-
-            delegate: Item {
-                width: ListView.view.width
-                height: 20
-
-                Text {
-                    anchors.verticalCenter: parent.verticalCenter
-                    text: fileName
-                    font.pointSize: 12
-                    padding: 10
-                }
-            }
-
-            width: parent.width
-            height: parent.height
+        // Shows the help text.
+        Text {
+            text: qsTr("This will display a file tree")
+            wrapMode: TextArea.Wrap
+            color: Colors.text
         }
     }
-}
 
+}
